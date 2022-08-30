@@ -9,4 +9,6 @@ Team Members:
 4) Ravi Pambhar
 5) Pratima Mohan
 
-NOTE: I somehow misplaced my winning certificate, hence in this repository I have attached few mail screenshots where my email ID is visible as a proof of winning this Hackathon.
+NOTE: I somehow misplaced my winning certificate, hence in this repository I have attached few mail screenshots where my email ID is visible as a proof of winning this Hackathon.\
+
+A detailed report of this hackathon can be found at: https://site.ieee.org/ias-cmd/2018/11/01/hackathon-tic-tech-toe18/
